@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "485025996706",
+    "project_id": "mok-testing-cd754",
+    "storage_bucket": "mok-testing-cd754.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485025996706:android:07071ec7b100c179671cfb",
+        "android_client_info": {
+          "package_name": "com.mok"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485025996706-qbl53qm30oqjgi843f9r9a4lvt9031gs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIbJXJ8kl9QX_CooLv6jgGNXFdAwrEVr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485025996706-qbl53qm30oqjgi843f9r9a4lvt9031gs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
